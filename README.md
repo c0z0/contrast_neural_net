@@ -14,10 +14,10 @@ This a simple deep neural network that learns the yiq contrast formula. This for
 ### Training
 
 ```
-	$ python net.py train
+$ python net.py train
 ```
 
 ### Running with previously trained model
 ```
-$ python
+$ python net.py
 ```
